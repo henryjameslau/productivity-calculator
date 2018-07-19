@@ -1,0 +1,512 @@
+﻿Industry code,Industry name,Year,0–9,10–49,50–249,250+
+1 to 3,"Agriculture, forestry and fishing",2010,30500,33500,50500,
+5 to 9,Mining and quarrying,2010,59000,74000,92000,126000
+10,Manufacture of food products,2010,22000,38000,47000,53500
+11,Manufacture of beverages,2010,54000,55000,66000,154500
+13,Manufacture of textiles,2010,25000,24000,45000,39500
+14,Manufacture of wearing apparel,2010,14000,22500,29500,
+15,Manufacture of leather and related products,2010,18000,33000,32000,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2010,24500,33500,41000,49500
+17,Manufacture of paper and paper products,2010,43000,46000,53000,68500
+18,Printing and reproduction of recorded media,2010,27000,40500,38000,55500
+19,Manufacture of coke and refined petroleum products,2010,,76500,94000,
+20,Manufacture of chemicals and chemical products,2010,56500,65500,79000,97000
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2010,,42500,49000,119500
+22,Manufacture of rubber and plastic products,2010,30500,34500,46000,49500
+23,Manufacture of other non-metallic mineral products,2010,27000,47500,47500,55000
+24,Manufacture of basic metals,2010,49000,47500,52500,60500
+25,"Manufacture of fabricated metal products, except machinery and equipment",2010,36500,39000,42500,53000
+26,"Manufacture of computer, electronic and optical products",2010,57000,45000,58000,73000
+27,Manufacture of electrical equipment,2010,32000,51000,53000,59000
+28,Manufacture of machinery and equipment n.e.c.,2010,41500,45000,58000,70000
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2010,48500,36500,48500,57000
+30,Manufacture of other transport equipment,2010,24500,44500,46000,53500
+31,Manufacture of furniture,2010,30500,43000,33000,33500
+32,Other manufacturing,2010,24500,42000,44500,64000
+33,Repair and installation of machinery and equipment,2010,30500,45000,50000,76000
+35,"Electricity, gas, steam and air conditioning supply",2010,68000,89500,259500,212000
+36 to 37,"Water collection, treatment and supply and sewerage",2010,40500,43000,92500,221500
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2010,70000,62500,62000,61000
+41,Construction of buildings,2010,56500,52000,61000,77000
+42,Civil engineering,2010,49000,56000,54000,59000
+43,Specialised construction activities,2010,41000,46000,46000,48000
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2010,30500,37500,44000,53000
+46,"Wholesale trade, except of motor vehicles and motorcycles",2010,39000,52000,58000,68500
+47,"Retail trade, except of motor vehicles and motorcycles",2010,24500,23000,25000,30000
+49,Land transport and transport via pipelines,2010,37000,38500,39500,46000
+50,Water transport,2010,42000,38000,106500,114500
+51,Air transport,2010,91000,,102500,102000
+52,Warehousing and support activities for transportation,2010,56000,77000,52500,59500
+53,Postal and courier activities,2010,21000,41500,30500,36000
+55,Accommodation,2010,27000,25000,21500,30500
+56,Food and beverage service activities,2010,16500,12000,17000,19000
+58,Publishing activities,2010,32500,62500,82000,82000
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2010,45500,77000,64000,118000
+60,Programming and broadcasting activities,2010,34500,68500,69500,114000
+61,Telecommunications,2010,56500,69000,85500,136500
+62,"Computer programming, consultancy and related activities",2010,50500,64000,80500,99000
+63,Information service activities,2010,30500,36500,109000,136500
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2010,,78500,128000,123500
+68,Real estate activities,2010,49000,41500,54000,61000
+69,Legal and accounting activities,2010,50500,38000,48500,73000
+70,Activities of head offices; management consultancy activities,2010,53000,77000,63500,68500
+71,Architectural and engineering activities; technical testing and analysis,2010,46500,49000,59000,84500
+72,Scientific research and development,2010,30000,34500,79500,69000
+73,Advertising and market research,2010,42500,56500,57000,38500
+74,"Other professional, scientific and technical activities",2010,36000,57500,78500,65000
+75,Veterinary activities,2010,40500,32500,44000,
+77,Rental and leasing activities,2010,44500,54000,93000,120000
+78,Employment activities,2010,49000,63500,28000,21000
+79,"Travel agency, tour operator and other reservation service and related activities",2010,58000,39500,38500,56500
+80,Security and investigation activities,2010,39500,31500,24500,25000
+81,Services to buildings and landscape activities,2010,25500,23500,13500,16500
+82,"Office administrative, office support and other business support activities",2010,37000,57500,48500,55500
+85,Education,2010,32000,20000,28500,20000
+86,Human health activities,2010,41000,28000,14000,27500
+87,Residential care activities,2010,35000,18500,18000,18500
+88,Social work activities without accommodation,2010,13000,9500,14000,11000
+90,"Creative, arts and entertainment activities",2010,43000,33500,9000,16500
+91,"Libraries, archives, museums and other cultural activities",2010,13000,12500,9500,-1000
+92,Gambling and betting activities,2010,56500,70000,35000,55000
+93,Sports activities and amusement and recreation activities,2010,19000,17000,16000,33000
+94,Activities of membership organisations,2010,3500,13000,11000,32000
+95,Repair of computers and personal and household goods,2010,30500,41000,54000,44500
+96,Other personal service activities,2010,30000,33500,29000,25500
+1 to 3,"Agriculture, forestry and fishing",2011,31500,34000,47000,
+5 to 9,Mining and quarrying,2011,50500,88000,110000,101000
+10,Manufacture of food products,2011,28500,40500,49000,49500
+11,Manufacture of beverages,2011,62000,51500,77000,141000
+13,Manufacture of textiles,2011,32500,25000,38000,39500
+14,Manufacture of wearing apparel,2011,33000,29500,30000,
+15,Manufacture of leather and related products,2011,,28500,47500,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2011,26000,42000,38500,49500
+17,Manufacture of paper and paper products,2011,41500,44500,73000,80500
+18,Printing and reproduction of recorded media,2011,32000,44500,41000,52000
+19,Manufacture of coke and refined petroleum products,2011,,,76500,
+20,Manufacture of chemicals and chemical products,2011,57500,84000,70500,103500
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2011,,86500,56500,99000
+22,Manufacture of rubber and plastic products,2011,33500,44500,44000,55000
+23,Manufacture of other non-metallic mineral products,2011,29000,34500,57500,55500
+24,Manufacture of basic metals,2011,35000,45000,52000,68500
+25,"Manufacture of fabricated metal products, except machinery and equipment",2011,33500,47500,46000,54500
+26,"Manufacture of computer, electronic and optical products",2011,43000,54500,58500,86000
+27,Manufacture of electrical equipment,2011,43500,46000,47000,63000
+28,Manufacture of machinery and equipment n.e.c.,2011,34500,52000,61000,75000
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2011,33500,51000,61000,62000
+30,Manufacture of other transport equipment,2011,21500,46500,52000,62500
+31,Manufacture of furniture,2011,24500,35500,35000,32500
+32,Other manufacturing,2011,33500,40000,41500,57000
+33,Repair and installation of machinery and equipment,2011,37000,53500,50500,74500
+35,"Electricity, gas, steam and air conditioning supply",2011,35000,126500,167000,198000
+36 to 37,"Water collection, treatment and supply and sewerage",2011,40000,48000,96500,198500
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2011,30000,68500,63500,59500
+41,Construction of buildings,2011,53000,59500,77000,88000
+42,Civil engineering,2011,41500,55500,63500,63500
+43,Specialised construction activities,2011,40500,49500,47000,43000
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2011,31000,36000,42500,46500
+46,"Wholesale trade, except of motor vehicles and motorcycles",2011,40500,56000,61000,66500
+47,"Retail trade, except of motor vehicles and motorcycles",2011,22500,25000,24000,31000
+49,Land transport and transport via pipelines,2011,32500,43500,38500,46500
+50,Water transport,2011,40500,83000,,
+51,Air transport,2011,36000,87000,100000,76500
+52,Warehousing and support activities for transportation,2011,47500,75500,50500,65500
+53,Postal and courier activities,2011,24000,38500,43500,33500
+55,Accommodation,2011,35000,19500,26000,29000
+56,Food and beverage service activities,2011,17500,13500,18000,19500
+58,Publishing activities,2011,44000,76000,64500,84500
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2011,46000,53000,52000,130500
+60,Programming and broadcasting activities,2011,28500,37500,131500,190000
+61,Telecommunications,2011,78000,74000,117500,123500
+62,"Computer programming, consultancy and related activities",2011,50000,63500,65500,99500
+63,Information service activities,2011,46000,58500,58500,138000
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2011,,100000,69500,135500
+68,Real estate activities,2011,48000,45500,47500,62500
+69,Legal and accounting activities,2011,48000,40500,43500,77500
+70,Activities of head offices; management consultancy activities,2011,55500,73000,98000,77500
+71,Architectural and engineering activities; technical testing and analysis,2011,50000,57000,56500,77500
+72,Scientific research and development,2011,46000,29500,59500,84000
+73,Advertising and market research,2011,43000,59000,58000,46000
+74,"Other professional, scientific and technical activities",2011,43000,59500,50000,70000
+75,Veterinary activities,2011,46000,34500,30000,
+77,Rental and leasing activities,2011,43500,53000,72500,109000
+78,Employment activities,2011,46500,59000,31500,21000
+79,"Travel agency, tour operator and other reservation service and related activities",2011,54500,37000,73500,94500
+80,Security and investigation activities,2011,31500,39500,27500,27000
+81,Services to buildings and landscape activities,2011,30000,17500,12500,15000
+82,"Office administrative, office support and other business support activities",2011,42500,46500,46000,60500
+85,Education,2011,25500,17500,24500,21000
+86,Human health activities,2011,40500,24500,20000,28500
+87,Residential care activities,2011,27000,17000,17000,18500
+88,Social work activities without accommodation,2011,7500,10000,13500,10500
+90,"Creative, arts and entertainment activities",2011,45000,23500,18000,21500
+91,"Libraries, archives, museums and other cultural activities",2011,17000,13500,3500,-1500
+92,Gambling and betting activities,2011,84500,23000,33000,47000
+93,Sports activities and amusement and recreation activities,2011,21500,19000,11500,35000
+94,Activities of membership organisations,2011,8000,15000,14000,26500
+95,Repair of computers and personal and household goods,2011,35500,31500,53500,
+96,Other personal service activities,2011,25000,29500,37000,25000
+1 to 3,"Agriculture, forestry and fishing",2012,29000,41500,29000,
+5 to 9,Mining and quarrying,2012,63000,78000,125000,127000
+10,Manufacture of food products,2012,34000,36000,50000,52000
+11,Manufacture of beverages,2012,41500,51000,91000,161500
+13,Manufacture of textiles,2012,30000,32000,32500,45500
+14,Manufacture of wearing apparel,2012,21000,25500,37000,
+15,Manufacture of leather and related products,2012,30500,27000,49500,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2012,25000,41000,39000,51000
+17,Manufacture of paper and paper products,2012,32000,55500,62000,68000
+18,Printing and reproduction of recorded media,2012,32000,45000,45500,52000
+19,Manufacture of coke and refined petroleum products,2012,,,96500,
+20,Manufacture of chemicals and chemical products,2012,52000,67500,71500,101500
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2012,,61500,65500,113500
+22,Manufacture of rubber and plastic products,2012,40500,44000,52500,53500
+23,Manufacture of other non-metallic mineral products,2012,42500,38500,44500,53000
+24,Manufacture of basic metals,2012,44000,48500,45000,62000
+25,"Manufacture of fabricated metal products, except machinery and equipment",2012,40000,44500,52000,58500
+26,"Manufacture of computer, electronic and optical products",2012,31500,60500,60500,78500
+27,Manufacture of electrical equipment,2012,26500,46500,50500,64500
+28,Manufacture of machinery and equipment n.e.c.,2012,44000,54500,58500,70000
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2012,33000,40000,53500,58500
+30,Manufacture of other transport equipment,2012,31000,42000,56000,71500
+31,Manufacture of furniture,2012,24000,34500,31000,36000
+32,Other manufacturing,2012,29000,38500,57000,60500
+33,Repair and installation of machinery and equipment,2012,33000,54500,64000,72500
+35,"Electricity, gas, steam and air conditioning supply",2012,53000,71500,188500,229500
+36 to 37,"Water collection, treatment and supply and sewerage",2012,39000,38500,87000,229500
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2012,48500,48500,61000,68000
+41,Construction of buildings,2012,61000,64500,83000,91500
+42,Civil engineering,2012,50500,54000,69500,66000
+43,Specialised construction activities,2012,43500,49000,54500,48000
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2012,33000,35500,48000,44000
+46,"Wholesale trade, except of motor vehicles and motorcycles",2012,40000,51500,59000,70500
+47,"Retail trade, except of motor vehicles and motorcycles",2012,23000,23500,26500,31500
+49,Land transport and transport via pipelines,2012,33500,36500,37500,47500
+50,Water transport,2012,46000,65000,120000,
+51,Air transport,2012,75000,85000,107000,69500
+52,Warehousing and support activities for transportation,2012,55500,77500,60500,66500
+53,Postal and courier activities,2012,25000,41000,,38500
+55,Accommodation,2012,40000,18500,30500,30000
+56,Food and beverage service activities,2012,17500,14000,19000,22500
+58,Publishing activities,2012,32000,73000,66500,86000
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2012,45000,73500,44500,112500
+60,Programming and broadcasting activities,2012,48000,73000,,181500
+61,Telecommunications,2012,57500,54500,99000,131000
+62,"Computer programming, consultancy and related activities",2012,55500,60500,75000,106500
+63,Information service activities,2012,26500,44000,57000,154500
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2012,,88500,95000,128000
+68,Real estate activities,2012,49500,39500,64500,70000
+69,Legal and accounting activities,2012,52500,40000,50500,76000
+70,Activities of head offices; management consultancy activities,2012,59000,69000,89000,66500
+71,Architectural and engineering activities; technical testing and analysis,2012,52000,51500,61500,79000
+72,Scientific research and development,2012,51000,52000,74000,81500
+73,Advertising and market research,2012,53500,66000,80000,59500
+74,"Other professional, scientific and technical activities",2012,42000,57000,54000,70000
+75,Veterinary activities,2012,37000,34500,32000,
+77,Rental and leasing activities,2012,45500,53500,76000,131000
+78,Employment activities,2012,64000,59000,33000,25500
+79,"Travel agency, tour operator and other reservation service and related activities",2012,92500,68500,63000,93000
+80,Security and investigation activities,2012,42000,52000,27000,26500
+81,Services to buildings and landscape activities,2012,26500,18000,12500,16000
+82,"Office administrative, office support and other business support activities",2012,44500,48000,66500,56000
+85,Education,2012,33500,16500,25500,12000
+86,Human health activities,2012,29500,23000,19500,28000
+87,Residential care activities,2012,34500,21500,16000,18000
+88,Social work activities without accommodation,2012,11500,8000,10500,12000
+90,"Creative, arts and entertainment activities",2012,44500,26000,25500,9500
+91,"Libraries, archives, museums and other cultural activities",2012,5000,10500,1500,500
+92,Gambling and betting activities,2012,23000,27500,,46500
+93,Sports activities and amusement and recreation activities,2012,26500,17500,13500,32500
+94,Activities of membership organisations,2012,8500,20000,25000,27500
+95,Repair of computers and personal and household goods,2012,29000,37000,38500,38000
+96,Other personal service activities,2012,27500,30000,45000,28500
+1 to 3,"Agriculture, forestry and fishing",2013,31000,32500,53000,
+5 to 9,Mining and quarrying,2013,63000,85500,155000,170000
+10,Manufacture of food products,2013,31500,42500,55000,57500
+11,Manufacture of beverages,2013,27000,56000,123000,148500
+13,Manufacture of textiles,2013,28000,41000,37500,42000
+14,Manufacture of wearing apparel,2013,18500,34500,45500,
+15,Manufacture of leather and related products,2013,,31500,,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2013,32500,38500,34500,44000
+17,Manufacture of paper and paper products,2013,29500,46000,65000,73500
+18,Printing and reproduction of recorded media,2013,30500,49500,50000,54500
+19,Manufacture of coke and refined petroleum products,2013,,,155500,
+20,Manufacture of chemicals and chemical products,2013,51000,79000,89000,110500
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2013,21000,46500,70500,139500
+22,Manufacture of rubber and plastic products,2013,35000,45000,52000,54000
+23,Manufacture of other non-metallic mineral products,2013,32500,42000,46500,50500
+24,Manufacture of basic metals,2013,31000,63000,40500,63500
+25,"Manufacture of fabricated metal products, except machinery and equipment",2013,40500,45000,44500,59500
+26,"Manufacture of computer, electronic and optical products",2013,49500,51000,61000,79000
+27,Manufacture of electrical equipment,2013,35500,59500,54500,53500
+28,Manufacture of machinery and equipment n.e.c.,2013,44500,54000,59000,72500
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2013,54000,37500,47500,65500
+30,Manufacture of other transport equipment,2013,37500,36500,59500,70500
+31,Manufacture of furniture,2013,31000,34500,34000,37000
+32,Other manufacturing,2013,29500,41500,48000,64000
+33,Repair and installation of machinery and equipment,2013,48500,55500,69000,79500
+35,"Electricity, gas, steam and air conditioning supply",2013,49500,103000,253000,196000
+36 to 37,"Water collection, treatment and supply and sewerage",2013,56000,73500,67500,197000
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2013,42000,48500,55000,55000
+41,Construction of buildings,2013,75500,61000,71000,101500
+42,Civil engineering,2013,52500,54500,61500,72000
+43,Specialised construction activities,2013,44500,51000,54500,50500
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2013,37000,39500,58000,58000
+46,"Wholesale trade, except of motor vehicles and motorcycles",2013,44500,58000,64000,72000
+47,"Retail trade, except of motor vehicles and motorcycles",2013,24500,23500,30500,31500
+49,Land transport and transport via pipelines,2013,30500,37500,43000,56000
+50,Water transport,2013,62000,84000,112000,
+51,Air transport,2013,26500,124000,124500,74000
+52,Warehousing and support activities for transportation,2013,63500,71000,73000,67500
+53,Postal and courier activities,2013,35500,43500,,37000
+55,Accommodation,2013,30000,22500,23500,32000
+56,Food and beverage service activities,2013,15500,13000,22500,22000
+58,Publishing activities,2013,40500,53500,55500,89500
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2013,46000,80500,56500,121500
+60,Programming and broadcasting activities,2013,38000,54000,130500,194500
+61,Telecommunications,2013,46500,86000,99000,149000
+62,"Computer programming, consultancy and related activities",2013,58000,65500,76000,103000
+63,Information service activities,2013,65500,52500,103000,187000
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2013,,145500,230500,173000
+68,Real estate activities,2013,55000,45000,62000,77500
+69,Legal and accounting activities,2013,56000,41500,58000,74500
+70,Activities of head offices; management consultancy activities,2013,60500,91500,79500,73500
+71,Architectural and engineering activities; technical testing and analysis,2013,57500,61000,64500,93500
+72,Scientific research and development,2013,34500,49000,76500,96000
+73,Advertising and market research,2013,49000,60500,81000,87500
+74,"Other professional, scientific and technical activities",2013,49000,51500,57000,72500
+75,Veterinary activities,2013,36000,37500,40000,
+77,Rental and leasing activities,2013,68500,68500,87500,130000
+78,Employment activities,2013,61000,48500,40500,26500
+79,"Travel agency, tour operator and other reservation service and related activities",2013,74500,120000,122000,92000
+80,Security and investigation activities,2013,26000,40500,20500,25500
+81,Services to buildings and landscape activities,2013,32500,18500,11500,16000
+82,"Office administrative, office support and other business support activities",2013,44500,60500,60000,56500
+85,Education,2013,30500,19500,20000,14000
+86,Human health activities,2013,58000,27000,18500,28500
+87,Residential care activities,2013,34000,19000,18000,19000
+88,Social work activities without accommodation,2013,12000,8000,13000,13500
+90,"Creative, arts and entertainment activities",2013,44000,56500,38500,12000
+91,"Libraries, archives, museums and other cultural activities",2013,12500,8500,7500,3000
+92,Gambling and betting activities,2013,105500,37000,,58500
+93,Sports activities and amusement and recreation activities,2013,18500,16500,17500,32500
+94,Activities of membership organisations,2013,9000,14000,34500,32000
+95,Repair of computers and personal and household goods,2013,25500,44000,61000,
+96,Other personal service activities,2013,28500,29000,27500,29000
+1 to 3,"Agriculture, forestry and fishing",2014,32500,38500,43000,
+5 to 9,Mining and quarrying,2014,75500,80500,120000,206500
+10,Manufacture of food products,2014,32000,40000,56000,58000
+11,Manufacture of beverages,2014,16000,68500,96000,152500
+13,Manufacture of textiles,2014,31000,32500,40000,46500
+14,Manufacture of wearing apparel,2014,25500,39000,24000,
+15,Manufacture of leather and related products,2014,,26500,,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2014,30000,38500,56500,50500
+17,Manufacture of paper and paper products,2014,35000,42500,61500,82500
+18,Printing and reproduction of recorded media,2014,39500,42500,47000,54000
+19,Manufacture of coke and refined petroleum products,2014,,,93500,
+20,Manufacture of chemicals and chemical products,2014,80500,67000,82000,113000
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2014,,68000,79000,128000
+22,Manufacture of rubber and plastic products,2014,39500,44500,44000,62000
+23,Manufacture of other non-metallic mineral products,2014,44000,43500,55500,64500
+24,Manufacture of basic metals,2014,77500,61000,43000,84000
+25,"Manufacture of fabricated metal products, except machinery and equipment",2014,38500,46500,58000,59500
+26,"Manufacture of computer, electronic and optical products",2014,37000,50500,71500,84500
+27,Manufacture of electrical equipment,2014,36500,53500,52000,54500
+28,Manufacture of machinery and equipment n.e.c.,2014,52500,60000,55500,71500
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2014,35000,52500,56500,76500
+30,Manufacture of other transport equipment,2014,41500,41000,67500,76500
+31,Manufacture of furniture,2014,29000,40000,40500,43000
+32,Other manufacturing,2014,29500,43000,52500,64000
+33,Repair and installation of machinery and equipment,2014,32500,57500,81000,82500
+35,"Electricity, gas, steam and air conditioning supply",2014,57500,48000,239000,192000
+36 to 37,"Water collection, treatment and supply and sewerage",2014,69000,49000,53000,226500
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2014,60000,44000,85000,55000
+41,Construction of buildings,2014,69000,78500,107500,116500
+42,Civil engineering,2014,46000,60500,66500,74500
+43,Specialised construction activities,2014,46500,54500,60500,56500
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2014,32000,41000,61500,58000
+46,"Wholesale trade, except of motor vehicles and motorcycles",2014,46500,59000,71500,73500
+47,"Retail trade, except of motor vehicles and motorcycles",2014,23500,24500,30000,34000
+49,Land transport and transport via pipelines,2014,33000,41500,41500,55000
+50,Water transport,2014,43000,129500,176500,
+51,Air transport,2014,58500,95500,,91000
+52,Warehousing and support activities for transportation,2014,62000,65500,64500,67500
+53,Postal and courier activities,2014,23000,40500,192500,39500
+55,Accommodation,2014,45500,27500,27500,33500
+56,Food and beverage service activities,2014,16500,13500,18500,22500
+58,Publishing activities,2014,39000,54500,74000,85500
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2014,59500,55000,72000,118000
+60,Programming and broadcasting activities,2014,46000,48500,,245500
+61,Telecommunications,2014,58500,90500,106500,147000
+62,"Computer programming, consultancy and related activities",2014,60500,62500,90500,111500
+63,Information service activities,2014,47500,70000,124500,174000
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2014,,107500,172500,179000
+68,Real estate activities,2014,55000,54000,84000,79000
+69,Legal and accounting activities,2014,60000,49000,60000,75500
+70,Activities of head offices; management consultancy activities,2014,62000,87500,70500,106500
+71,Architectural and engineering activities; technical testing and analysis,2014,60000,66500,85000,93000
+72,Scientific research and development,2014,31500,57000,87000,87000
+73,Advertising and market research,2014,57500,89500,69000,99000
+74,"Other professional, scientific and technical activities",2014,46000,52500,80000,94500
+75,Veterinary activities,2014,44500,36000,39500,
+77,Rental and leasing activities,2014,63500,75500,91000,138500
+78,Employment activities,2014,85000,57000,41000,34500
+79,"Travel agency, tour operator and other reservation service and related activities",2014,97500,105500,115000,135000
+80,Security and investigation activities,2014,56000,44500,43500,21500
+81,Services to buildings and landscape activities,2014,30000,21000,19500,19000
+82,"Office administrative, office support and other business support activities",2014,43500,65500,55500,64000
+85,Education,2014,30500,21500,25000,16000
+86,Human health activities,2014,43000,32000,17000,27000
+87,Residential care activities,2014,25000,18500,19500,20000
+88,Social work activities without accommodation,2014,14500,12000,15000,14000
+90,"Creative, arts and entertainment activities",2014,51500,77500,27000,10500
+91,"Libraries, archives, museums and other cultural activities",2014,6000,9000,13000,3500
+92,Gambling and betting activities,2014,52000,49000,70500,67000
+93,Sports activities and amusement and recreation activities,2014,22500,13000,36500,35500
+94,Activities of membership organisations,2014,9500,14000,38000,35000
+95,Repair of computers and personal and household goods,2014,36000,47500,52500,62500
+96,Other personal service activities,2014,29500,30000,31000,29500
+1 to 3,"Agriculture, forestry and fishing",2015,38500,31500,45000,
+5 to 9,Mining and quarrying,2015,92500,132000,137000,178000
+10,Manufacture of food products,2015,14500,34000,55500,59000
+11,Manufacture of beverages,2015,18500,55500,98000,149000
+13,Manufacture of textiles,2015,60500,45500,39500,50000
+14,Manufacture of wearing apparel,2015,18500,48500,28500,
+15,Manufacture of leather and related products,2015,,27000,,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2015,35500,45000,52500,57000
+17,Manufacture of paper and paper products,2015,15000,39500,62000,64000
+18,Printing and reproduction of recorded media,2015,33500,38000,58500,51500
+19,Manufacture of coke and refined petroleum products,2015,,,,
+20,Manufacture of chemicals and chemical products,2015,59000,57500,81500,113000
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2015,,116000,86000,122000
+22,Manufacture of rubber and plastic products,2015,53000,44500,48000,61500
+23,Manufacture of other non-metallic mineral products,2015,30500,49500,50000,71000
+24,Manufacture of basic metals,2015,79000,41000,44500,68500
+25,"Manufacture of fabricated metal products, except machinery and equipment",2015,43000,43500,52500,59500
+26,"Manufacture of computer, electronic and optical products",2015,33500,68500,59500,96500
+27,Manufacture of electrical equipment,2015,36500,44000,47500,55500
+28,Manufacture of machinery and equipment n.e.c.,2015,50000,50000,58000,67000
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2015,30000,51500,46500,69000
+30,Manufacture of other transport equipment,2015,43500,62500,55000,78500
+31,Manufacture of furniture,2015,37500,48500,40000,42500
+32,Other manufacturing,2015,33000,42500,58500,63500
+33,Repair and installation of machinery and equipment,2015,38500,52500,55500,77000
+35,"Electricity, gas, steam and air conditioning supply",2015,89500,136500,265500,213500
+36 to 37,"Water collection, treatment and supply and sewerage",2015,49000,49000,54500,191500
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2015,64500,53000,71500,54500
+41,Construction of buildings,2015,76500,74000,125500,153500
+42,Civil engineering,2015,50500,59000,70500,87000
+43,Specialised construction activities,2015,49500,55500,64500,57500
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2015,37000,41500,60500,58500
+46,"Wholesale trade, except of motor vehicles and motorcycles",2015,44500,62500,73500,67500
+47,"Retail trade, except of motor vehicles and motorcycles",2015,21000,23500,30000,35500
+49,Land transport and transport via pipelines,2015,35000,42000,47000,58000
+50,Water transport,2015,24500,65000,91500,
+51,Air transport,2015,45500,,,97000
+52,Warehousing and support activities for transportation,2015,71000,55000,80500,69000
+53,Postal and courier activities,2015,30500,44500,,36500
+55,Accommodation,2015,38500,22000,26000,37000
+56,Food and beverage service activities,2015,17000,14500,20500,23000
+58,Publishing activities,2015,38000,46500,84000,89000
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2015,43500,95500,67500,134000
+60,Programming and broadcasting activities,2015,62000,87500,125500,154000
+61,Telecommunications,2015,46500,104500,104000,161500
+62,"Computer programming, consultancy and related activities",2015,61500,59500,84500,121000
+63,Information service activities,2015,43500,35500,80500,154000
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2015,53000,,91500,218000
+68,Real estate activities,2015,61500,60500,100500,87500
+69,Legal and accounting activities,2015,52500,54500,64000,75500
+70,Activities of head offices; management consultancy activities,2015,61000,101500,104500,92000
+71,Architectural and engineering activities; technical testing and analysis,2015,55000,65500,78000,89000
+72,Scientific research and development,2015,56500,63000,70500,88000
+73,Advertising and market research,2015,51000,78000,91500,119500
+74,"Other professional, scientific and technical activities",2015,50000,60500,85500,73500
+75,Veterinary activities,2015,42500,43000,28500,46000
+77,Rental and leasing activities,2015,58500,78500,105500,149500
+78,Employment activities,2015,59500,66000,42000,31000
+79,"Travel agency, tour operator and other reservation service and related activities",2015,82500,112000,131500,119500
+80,Security and investigation activities,2015,52500,53500,32500,30000
+81,Services to buildings and landscape activities,2015,36000,26500,16000,18500
+82,"Office administrative, office support and other business support activities",2015,44000,46000,52500,63500
+85,Education,2015,32000,22000,26000,17500
+86,Human health activities,2015,47000,33000,19000,28500
+87,Residential care activities,2015,38000,17500,20000,20500
+88,Social work activities without accommodation,2015,18500,11500,13000,15000
+90,"Creative, arts and entertainment activities",2015,52000,58000,17000,16000
+91,"Libraries, archives, museums and other cultural activities",2015,30500,10500,14500,5500
+92,Gambling and betting activities,2015,36000,31000,46000,82000
+93,Sports activities and amusement and recreation activities,2015,41500,16000,23500,33000
+94,Activities of membership organisations,2015,11000,18000,30500,36000
+95,Repair of computers and personal and household goods,2015,28000,35500,56000,62500
+96,Other personal service activities,2015,30500,30500,43000,36000
+1 to 3,"Agriculture, forestry and fishing",2016,39000,47000,37500,
+5 to 9,Mining and quarrying,2016,57500,89500,183500,195500
+10,Manufacture of food products,2016,33500,38500,60000,61500
+11,Manufacture of beverages,2016,26000,65500,112500,158000
+13,Manufacture of textiles,2016,34500,34500,47000,60000
+14,Manufacture of wearing apparel,2016,42500,45000,25000,
+15,Manufacture of leather and related products,2016,,31500,42000,
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2016,41000,48500,52500,67000
+17,Manufacture of paper and paper products,2016,22000,49500,62000,75500
+18,Printing and reproduction of recorded media,2016,29500,44500,52000,49500
+19,Manufacture of coke and refined petroleum products,2016,,102000,212500,300500
+20,Manufacture of chemicals and chemical products,2016,93500,78500,91000,112500
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2016,,101000,136500,135500
+22,Manufacture of rubber and plastic products,2016,57000,48000,56000,60000
+23,Manufacture of other non-metallic mineral products,2016,34500,51500,57500,71000
+24,Manufacture of basic metals,2016,63000,55500,53500,62000
+25,"Manufacture of fabricated metal products, except machinery and equipment",2016,39500,48500,53500,61000
+26,"Manufacture of computer, electronic and optical products",2016,68500,66000,72000,90500
+27,Manufacture of electrical equipment,2016,73500,57500,54500,62500
+28,Manufacture of machinery and equipment n.e.c.,2016,52000,55500,59000,71000
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2016,26500,40500,57000,75500
+30,Manufacture of other transport equipment,2016,27000,47000,55500,82000
+31,Manufacture of furniture,2016,31500,41000,45500,41000
+32,Other manufacturing,2016,33500,43500,79500,67500
+33,Repair and installation of machinery and equipment,2016,36000,63500,59500,80000
+35,"Electricity, gas, steam and air conditioning supply",2016,103000,152500,243000,161000
+36 to 37,"Water collection, treatment and supply and sewerage",2016,55500,64500,90500,177000
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2016,54500,58000,85000,70500
+41,Construction of buildings,2016,43000,68500,131000,160500
+42,Civil engineering,2016,70500,84500,75000,74000
+43,Specialised construction activities,2016,40500,65000,66500,56500
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2016,33500,50500,73000,66000
+46,"Wholesale trade, except of motor vehicles and motorcycles",2016,34500,63500,73000,74000
+47,"Retail trade, except of motor vehicles and motorcycles",2016,18000,24500,31500,36500
+49,Land transport and transport via pipelines,2016,23000,43500,46000,63000
+50,Water transport,2016,38000,49000,158500,
+51,Air transport,2016,104000,102000,77000,82000
+52,Warehousing and support activities for transportation,2016,28000,50000,82000,70000
+53,Postal and courier activities,2016,22500,58500,62500,45500
+55,Accommodation,2016,37500,24500,29000,36500
+56,Food and beverage service activities,2016,12500,13500,25000,24000
+58,Publishing activities,2016,35000,57000,79500,95500
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2016,50000,119000,129000,144000
+60,Programming and broadcasting activities,2016,74000,98000,64000,193000
+61,Telecommunications,2016,100000,104000,136000,162000
+62,"Computer programming, consultancy and related activities",2016,48000,65000,96500,134500
+63,Information service activities,2016,40000,53000,85500,156500
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2016,113000,83000,136000,237500
+68,Real estate activities,2016,49000,58500,77500,89000
+69,Legal and accounting activities,2016,62500,53000,64000,75000
+70,Activities of head offices; management consultancy activities,2016,51000,107000,120000,90000
+71,Architectural and engineering activities; technical testing and analysis,2016,46500,68500,87500,85500
+72,Scientific research and development,2016,131000,65500,82500,92500
+73,Advertising and market research,2016,50000,65500,79000,117000
+74,"Other professional, scientific and technical activities",2016,50000,55000,76000,63000
+75,Veterinary activities,2016,39000,45500,37000,55000
+77,Rental and leasing activities,2016,61500,86500,105500,177500
+78,Employment activities,2016,61000,63500,40500,25500
+79,"Travel agency, tour operator and other reservation service and related activities",2016,36000,110500,132000,119000
+80,Security and investigation activities,2016,58000,45000,27500,25000
+81,Services to buildings and landscape activities,2016,29000,26500,16500,17000
+82,"Office administrative, office support and other business support activities",2016,52000,65000,69500,78500
+85,Education,2016,19500,22500,26000,19000
+86,Human health activities,2016,29500,30000,26000,25000
+87,Residential care activities,2016,26500,21000,21500,21000
+88,Social work activities without accommodation,2016,14000,12500,13000,15500
+90,"Creative, arts and entertainment activities",2016,54500,50000,27500,14000
+91,"Libraries, archives, museums and other cultural activities",2016,31000,6500,16500,5000
+92,Gambling and betting activities,2016,23500,38000,51500,93000
+93,Sports activities and amusement and recreation activities,2016,27500,19000,24000,36000
+94,Activities of membership organisations,2016,10500,17000,22000,32500
+95,Repair of computers and personal and household goods,2016,41500,47500,66500,
+96,Other personal service activities,2016,30500,33500,43000,37000
